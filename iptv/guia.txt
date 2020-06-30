@@ -1,0 +1,13 @@
+  <channel site="gatotv.com" site_id="tv_azteca_clic" update="i" xmltv_id="Canal TV Azteca Clic">AZ CLIC</channel>
+  <channel site="gatotv.com" site_id="canal/tv_azteca_mundo" update="i" xmltv_id="Canal TV Azteca Mundo">AZ MUNDO</channel>
+  <channel site="gatotv.com" site_id="glitz" update="i" xmltv_id="Canal Glitz">GLITZ</channel>
+  <channel site="gatotv.com" site_id="fox_mexico" update="i" xmltv_id="Canal Fox (México)">FOX CHANNEL</channel>
+  <channel site="gatotv.com" site_id="fx_mexico" update="i" xmltv_id="Canal FX (México)">FX</channel>
+  <channel site="gatotv.com" site_id="fxm_mexico" update="i" xmltv_id="Canal FXM (México)">FXM</channel>
+  <channel site="gatotv.com" site_id="fox_life_mexico" update="i" xmltv_id="Canal Fox Life (México)">FOX LIFE</channel>
+  <channel site="gatotv.com" site_id="a_y_e_mexico" update="i" xmltv_id="Canal A&E (México)">AyE</channel>
+  <channel site="gatotv.com" site_id="animal_planet_mexico" update="i" xmltv_id="Canal Animal Planet (México)">ANIMAL PLANET</channel>
+  <channel site="gatotv.com" site_id="discovery_channel_mexico" update="i" xmltv_id="Canal Discovery Channel (México)">DISCOVERY CHANNEL</channel>
+  <channel site="gatotv.com" site_id="distrito_comedia" update="i" xmltv_id="Canal Distrito Comedia">DISTRITO COMEDIA</channel>
+  <channel site="gatotv.com" site_id="comedy_central_mexico" update="i" xmltv_id="Canal Comedy Central (México)">COMEDY CENTRAL</channel>
+  <channel site="gatotv.com" site_id="e_entertainment_television_mexico" update="i" xmltv_id="Canal E! Entertainment Television (México)">E! ENTERTAINMENT</channel>

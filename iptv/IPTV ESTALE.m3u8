@@ -1,0 +1,311 @@
+#EXTMU3
+#EXTINF:-1 tvg-id="AZTECA UNO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/aa/Azteca1.png/revision/latest?cb=20200224023504&path-prefix=es",AZTECA UNO
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/27/03/index.m3u8
+
+#EXTINF:-1 tvg-id="LAS ESTRELLAS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/41/Las_Estrellas.svg/revision/latest/scale-to-width-down/200?cb=20200305231400&path-prefix=es",LAS ESTRELLAS
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/2328/03/index.m3u8
+
+#EXTINF:-1 tvg-id="ADN 40" tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/fe3348d/2147483647/strip/true/crop/240x70+0+0/resize/158x46!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fce%2Fc5%2Fe827af739d94383774d81dacab85%2Flogoadn-2268863.png",ADN 40
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/40/03/index.m3u8
+
+#EXTINF:-1 tvg-id="FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png",FORO TV
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/700/03/index.m3u8
+
+#EXTINF:-1 tvg-id="CANAL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/827px-Canal_5_Mexico_logo_2014.svg.png",CANAL 5
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/2243/03/index.m3u8
+
+#EXTINF:-1 tvg-id="IMAGEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png",IMAGEN
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/2298/03/index.m3u8
+
+#EXTINF:-1 tvg-id="AZTECA 7" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Azteca_7_2019-2.png/revision/latest/scale-to-width-down/200?cb=20200222043148&path-prefix=es",AZTECA 7
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/317/03/index.m3u8
+
+#EXTINF:-1 tvg-id="ISAT" tvg-logo="https://seeklogo.com/images/I/isat-logo-90247D202D-seeklogo.com.png",ISAT
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/135/03/index.m3u8
+
+#EXTINF:-1 tvg-id="NU9VE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_(2018_logo).png",NU9VE
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/24/03/index.m3u8
+
+#EXTINF:-1 tvg-id="AZ CINEMA" tvg-logo="http://ipuntotv.com/IMAGES/Az-Cinema-logo.png",AZ CINEMA
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/1787/03/index.m3u8
+
+#EXTINF:-1 tvg-id="AZ CORAZON" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/Az_Coraz%C3%B3n_2014.png/revision/latest?cb=20191211175456&path-prefix=es",AZ CORAZON
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/70/03/index.m3u8
+
+#EXTINF:-1 tvg-id="AZ CLIC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/Az_Clic_2017.png/revision/latest/scale-to-width-down/350?cb=20191211180120&path-prefix=es",AZ CLIC
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/11/03/index.m3u8
+
+#EXTINF:-1 tvg-id="AZ MUNDO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Az_Mundo_2018-2019.png/revision/latest/scale-to-width-down/400?cb=20191211171850&path-prefix=es",AZ MUNDO
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/84/03/index.m3u8
+
+#EXTINF:-1 tvg-id="EL GARAGE TV" tvg-logo="http://elgarage.com/wp-content/uploads/2019/04/Logo-GARAGE-TV-sin-marco.png",EL GARAGE TV
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/75/03/index.m3u8
+
+#EXTINF:-1 tvg-id="EL GOURMET" tvg-logo="http://elgourmet.com/theme/assets/logo_20.png",EL GOURMET
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/74/03/index.m3u8
+
+#EXTINF:-1 tvg-id="GLITZ" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/5e/Glitz_logo.png",GLITZ
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/76/03/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX CHANNEL" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Fox_Channel.svg/revision/latest/scale-to-width-down/200?cb=20200117204800&path-prefix=es",FOX CHANNEL
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/46/03/index.m3u8
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/ba/FX2010.png/revision/latest/scale-to-width-down/250?cb=20200106021711&path-prefix=es",FX
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/60/03/index.m3u8
+
+#EXTINF:-1 tvg-id="FXM" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/FXM_2017.svg/revision/latest/scale-to-width-down/200?cb=20200327025203&path-prefix=es",FXM
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/138/03/index.m3u8
+
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/FOXLifeLA.png/revision/latest/scale-to-width-down/300?cb=20170415130714&path-prefix=es",FOX LIFE
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/77/03/index.m3u8
+
+#EXTINF:-1 tvg-id="A&E" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b7/A%26E_2008.png/revision/latest/scale-to-width-down/250?cb=20191216020246&path-prefix=es",A&E
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/62/03/index.m3u8
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/AnimalPlanetLA.png/revision/latest/scale-to-width-down/250?cb=20190208121631&path-prefix=es",ANIMAL PLANET
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/88/03/index.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/300?cb=20200113171937&path-prefix=es",DISCOVERY CHANNEL
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/86/03/index.m3u8
+
+#EXTINF:-1 tvg-id="DISTRITO COMEDIA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/Distrito_Comedia_%282018%29_%282%29.png/revision/latest?cb=20190908185202&path-prefix=es",DISTRITO COMEDIA
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/78/03/index.m3u8
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5d/ComedyCentral2019.png/revision/latest/scale-to-width-down/350?cb=20190304202857&path-prefix=es",COMEDY CENTRAL
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/340/03/index.m3u8
+
+#EXTINF:-1 tvg-id="E! ENTERTAINMENT" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/71/E%21_2012_logo.png/revision/latest/scale-to-width-down/65?cb=20200402215643&path-prefix=es",E! ENTERTAINMENT
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/55/03/index.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY H&H" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Discovery_H%26H.png/revision/latest/scale-to-width-down/210?cb=20190926042803&path-prefix=es",DISCOVERY H&H
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/96/03/index.m3u8
+
+#EXTINF:-1 tvg-id="HISTORY CHANNEL" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/History_%282015%29.svg/revision/latest/scale-to-width-down/200?cb=20200115015513&path-prefix=es",HISTORY CHANNEL
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/89/03/index.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY ID" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/ID_2017.png/revision/latest/scale-to-width-down/200?cb=20200106135542&path-prefix=es",DISCOVERY ID
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/68/03/index.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Discovery_Science_LA_2012.png/revision/latest/scale-to-width-down/200?cb=20190925153556&path-prefix=es",DISCOVERY SCIENCE
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/98/03/index.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/4096px-2015_Discovery_theater_HD_logo.svg.png",DISCOVERY THEATER
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/95/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Discovery_Turbo_2015.png/revision/latest?cb=20200119044415&path-prefix=es",DISCOVERY TURBO
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/2379/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png",DISCOVERY WORLD
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/101/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/250?cb=20200126030048&path-prefix=es",DISNEY CHANNEL
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/113/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8f/Discovery-kids-latin-america.svg/revision/latest/scale-to-width-down/200?cb=20200126230015&path-prefix=es",DISCOVERY KIDS
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/109/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Disney_Junior_2017.svg/revision/latest/scale-to-width-down/350?cb=20200322141724&path-prefix=es",DISNEY JR
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/118/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/82/Disney_XD_2015.svg/revision/latest/scale-to-width-down/200?cb=20200324223147&path-prefix=es",DISNEY XD
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/111/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest/scale-to-width-down/200?cb=20200207154245&path-prefix=es",BOOMERANG
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/115/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/250?cb=20200119125300&path-prefix=es",CARTOON NETWORK
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/112/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2b/BitMe.png/revision/latest/scale-to-width-down/150?cb=20200123215611&path-prefix=es",BITME
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/2591/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3e/De_Pel%C3%ADcula_2016.png/revision/latest?cb=20191216004334&path-prefix=es",DE PELICULA
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/335/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/De_Pel%C3%ADcula_Plus_2017.png/revision/latest?cb=20191216010400&path-prefix=es",DE PELICULA PLUS
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/121/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/Golden_2016.png/revision/latest/scale-to-width-down/180?cb=20191215191411&path-prefix=es",GOLDEN
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/123/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest?cb=20191215195803&path-prefix=es",GOLDEN EDGE
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/124/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/300?cb=20191215194002&path-prefix=es",GOLDEN PLUS
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/122/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9d/Cinecanal2018.png/revision/latest/scale-to-width-down/270?cb=20180915154956&path-prefix=es",CINECANAL
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/149/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/AMC2019NegroLA.png/revision/latest/scale-to-width-down/200?cb=20200111235847&path-prefix=es",AMC
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/328/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9d/2016_AXN_logo.png/revision/latest?cb=20200106130631&path-prefix=es",AXN
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/64/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/66/Cinemax_2016.svg/revision/latest/scale-to-width-down/300?cb=20200120201154&path-prefix=es",CINEMAX
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/158/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/85/Fox_Premium_Action_2018.svg/revision/latest/scale-to-width-down/300?cb=20200510175953&path-prefix=es",FOX PREMIUM ACTION
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/336/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bb/Fox_Premium_Movies_2018.svg/revision/latest/scale-to-width-down/300?cb=20200510183345&path-prefix=es",FOX PREMIUM MOVIES
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/146/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/66/Fox_Premium_Series_2018.svg/revision/latest/scale-to-width-down/300?cb=20200510181648&path-prefix=es",FOX PREMIUM SERIES
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/139/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/250?cb=20200116193239&path-prefix=es",ESPN
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/168/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/22/ESPN2_2006.svg/revision/latest/scale-to-width-down/300?cb=20200105155601&path-prefix=es",ESPN 2
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/169/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png/revision/latest/scale-to-width-down/300?cb=20151012185318&path-prefix=es",ESPN 3
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/345/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Espn_extra_2015.PNG/200px-Espn_extra_2015.PNG",ESPN EXTRA
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/167/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2f/Fox_Sports_2012.png/revision/latest/scale-to-width-down/250?cb=20200106171029&path-prefix=es",FOX SPORTS
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/170/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Foxsportsdos.jpg/revision/latest/scale-to-width-down/250?cb=20160825125220&path-prefix=es",FOX SPORTS 2
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/172/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/FOXSports3LA.png/revision/latest?cb=20170828214418&path-prefix=es",FOX SPORTS 3
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/178/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/aym_sports.jpg",AYM SPORTS
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/180/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2019/01/ADRENALINA-SPORTS-NETWORK-NEGRO.png",ADRENALINA
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/2404/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c8/Bandamax_2017.svg/revision/latest/scale-to-width-down/300?cb=20200509023508&path-prefix=es",BANDAMAX
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/221/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/11/Lifetime_2020.svg/revision/latest/scale-to-width-down/300?cb=20200125121516&path-prefix=es",LIFETIME
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/94/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png",MILENIO TV
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/1252/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/media/Dopa15fXsAA4v3v.png",MORBIDO TV
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/140/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/47/MTV_%282010%29.svg/revision/latest/scale-to-width-down/200?cb=20200111151940&path-prefix=es",MTV
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/212/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/MTV_Hits_Europe.svg/revision/latest/scale-to-width-down/200?cb=20200108225403&path-prefix=es",MTV HITS
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/213/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/MTV_Live.svg/1024px-MTV_Live.svg.png",MTV LIVE
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/211/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Multimedios-Televisi%C3%B3n-en-directo.png?fit=400%2C260",MULTIMEDIOS MONTERREY
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/2305/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Multimedios-Televisi%C3%B3n-en-directo.png?fit=400%2C260",MULTIMEDIOS PLUS
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/1253/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Nat_Geo_Kids_%282017%29.png/revision/latest/scale-to-width-down/250?cb=20200126150715&path-prefix=es",NAT GEO KIDS
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/2373/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/National_Geographic_Wild_2018.svg/revision/latest/scale-to-width-down/250?cb=20200126120742&path-prefix=es",NAT GEO WILD
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/92/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/National_Geographic_Society.png/revision/latest/scale-to-width-down/300?cb=20161105151637&path-prefix=es",NATIONAL GEOGRAPHIC
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/91/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest/scale-to-width-down/400?cb=20200113155608&path-prefix=es",NICK
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/331/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/db/Nick_Jr._1988.svg/revision/latest/scale-to-width-down/250?cb=20200131231335&path-prefix=es",NICK JR
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/117/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/b/b9/Gallery_1178_2_8285.png/revision/latest/top-crop/width/480/height/480?cb=20150604220635&path-prefix=es",ONCE TV
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/1942/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/Paramount_Network.svg/revision/latest/scale-to-width-down/200?cb=20200409163357&path-prefix=es",PARAMOUNT NETWORK
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/1726/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/Sony_Channel_2019.png/revision/latest?cb=20191009233058&path-prefix=es",SONY
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/48/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ed/Space_2008.svg/revision/latest/scale-to-width-down/80?cb=20200216172603&path-prefix=es",SPACE
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/130/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/Studio_Universal_2016.svg/revision/latest/scale-to-width-down/80?cb=20200323005542&path-prefix=es",STUDIO UNIVERSAL
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/132/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/Syfy_%282017%29.svg/revision/latest/scale-to-width-down/300?cb=20200106165949&path-prefix=es",SYFY
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/59/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/TBS_2015.svg/revision/latest/scale-to-width-down/250?cb=20200206211921&path-prefix=es",TBS
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/81/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/TCMLA.png/revision/latest?cb=20181101141407&path-prefix=es",TCM
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/128/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c4/Telehit_2018.png/revision/latest/scale-to-width-down/280?cb=20191215014742&path-prefix=es",TELEHIT
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/220/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/TLC2019LA.png/revision/latest/scale-to-width-down/300?cb=20190426123317&path-prefix=es",TLC
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/97/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b6/TLnovelas2019.png/revision/latest/scale-to-width-down/400?cb=20200206221616&path-prefix=es",TLNOVELAS
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/83/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest/scale-to-width-down/200?cb=20200116194348&path-prefix=es",TNT
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/126/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0e/Tnt-series-latin-america.svg/revision/latest/scale-to-width-down/200?cb=20200116195222&path-prefix=es",TNT SERIES
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/71/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest/scale-to-width-down/400?cb=20200107001607&path-prefix=es",TOONCAST
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/108/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3e/TruTV_logo_2014.png/revision/latest/scale-to-width-down/300?cb=20180622061231&path-prefix=es",TRUTV
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/79/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/TUDN.png/revision/latest/scale-to-width-down/350?cb=20190827032433&path-prefix=es",TUDN
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/174/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png/revision/latest/scale-to-width-down/250?cb=20160715002304&path-prefix=es",TVC DEPORTES
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/2157/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tvc_mexico-mediano.png",TVC
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/2156/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/Universal_TV_logo.svg/revision/latest/scale-to-width-down/250?cb=20200116225925&path-prefix=es",UNIVERSAL TV
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/57/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/vh1_classic-mediano.png",VH1 CLASSICS
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/214/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/200px-VH1_logonew.svg.png/revision/latest?cb=20151004081930&path-prefix=es",VH1
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/334/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Warner_%282018%29.png/revision/latest/scale-to-width-down/200?cb=20190208204234&path-prefix=es",WARNER TV
+http://145.239.0.5:65432/free/21d3fa775f09bae832284d49c4646bd4e2ea0fe0/205/03/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
+#EXTINF:-1 tvg-id="" tvg-logo="",
